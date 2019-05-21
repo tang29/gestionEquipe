@@ -1,0 +1,308 @@
+
+2019-05-17 10:26:22 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 10:26:22 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 10:45:34 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 10:45:34 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 10:50:18 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 10:50:18 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 11:43:23 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 11:43:23 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 11:45:16 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 11:45:16 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 11:45:19 ERROR Equipe:67 - [Ljava.lang.StackTraceElement;@4b09b86b
+2019-05-17 11:45:47 ERROR Equipe:67 - [Ljava.lang.StackTraceElement;@65e13f6a
+2019-05-17 11:46:25 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 11:46:25 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 11:46:43 ERROR Equipe:67 - [Ljava.lang.StackTraceElement;@6a963794
+2019-05-17 11:48:44 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 11:48:44 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 11:50:43 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 11:50:43 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 11:53:41 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 11:53:41 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 11:53:56 ERROR Equipe:66 - [Ljava.lang.StackTraceElement;@337dc9be
+2019-05-17 11:55:15 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 11:55:15 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 11:57:24 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 11:57:24 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 11:58:30 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 11:58:30 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:01:35 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:01:35 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:01:47 ERROR Equipe:68 - [Ljava.lang.StackTraceElement;@7ea919d9
+2019-05-17 12:04:02 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:04:02 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:04:10 ERROR Equipe:68 - [Ljava.lang.StackTraceElement;@2ff1d481
+2019-05-17 12:04:56 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:04:56 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:08:16 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:08:16 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:08:22 ERROR Equipe:67 - [Ljava.lang.StackTraceElement;@4a0f284d
+2019-05-17 12:10:55 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:10:55 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:11:00 ERROR Equipe:53 - [Ljava.lang.StackTraceElement;@61707cb2
+2019-05-17 12:14:17 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:14:17 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:14:25 ERROR Equipe:54 - [Ljava.lang.StackTraceElement;@39aca0ed
+2019-05-17 12:15:16 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:15:16 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:15:26 ERROR Equipe:54 - [Ljava.lang.StackTraceElement;@4c07e701
+2019-05-17 12:23:16 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:23:16 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:23:25 ERROR Equipe:54 - [Ljava.lang.StackTraceElement;@26ca6138
+2019-05-17 12:23:49 ERROR Equipe:54 - [Ljava.lang.StackTraceElement;@26b00d6a
+2019-05-17 12:24:04 ERROR Equipe:54 - [Ljava.lang.StackTraceElement;@2a040cb4
+2019-05-17 12:24:16 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:24:16 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:24:25 ERROR Equipe:54 - [Ljava.lang.StackTraceElement;@6e516404
+2019-05-17 12:24:58 ERROR Equipe:54 - [Ljava.lang.StackTraceElement;@12cce9b2
+2019-05-17 12:28:37 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:28:37 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:30:33 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:30:33 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:33:02 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:33:02 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:33:21 ERROR Equipe:183 - [Ljava.lang.StackTraceElement;@592933e1
+2019-05-17 12:34:50 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:34:50 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:37:38 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:37:38 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:41:19 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:41:19 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:41:24 ERROR Equipe:184 - [Ljava.lang.StackTraceElement;@4fad3837
+2019-05-17 12:42:17 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:42:17 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:43:41 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:43:41 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:44:00 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:44:00 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 12:45:56 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 12:45:56 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 13:53:19 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 13:53:19 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 13:59:06 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 13:59:06 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 14:00:49 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 14:00:49 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 14:16:29 ERROR Equipe:42 - message log (ERROR)
+2019-05-17 14:16:29 FATAL Equipe:43 - message log (FATAL)
+2019-05-17 14:24:13 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 14:24:13 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 14:24:22 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 14:24:22 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 14:31:05 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 14:31:05 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 14:33:10 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 14:33:10 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 14:38:11 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 14:38:11 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 14:45:40 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 14:45:40 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 14:46:14 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 14:46:14 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 14:48:33 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 14:48:33 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 14:55:14 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 14:55:14 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 14:56:22 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 14:56:22 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 14:57:48 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 14:57:48 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 14:58:24 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 14:58:24 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 14:59:40 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 14:59:40 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 15:01:13 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 15:01:13 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 15:03:43 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 15:03:43 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 15:04:17 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 15:04:17 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 15:05:42 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 15:05:42 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 15:06:58 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 15:06:58 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 15:07:12 ERROR Equipe:95 - [Ljava.lang.StackTraceElement;@112d14a0
+2019-05-17 15:08:03 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 15:08:03 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 15:08:11 ERROR Equipe:95 - [Ljava.lang.StackTraceElement;@5fc48ef2
+2019-05-17 15:09:00 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 15:09:00 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 15:12:09 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 15:12:09 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 15:12:36 ERROR Equipe:44 - message log (ERROR)
+2019-05-17 15:12:36 FATAL Equipe:45 - message log (FATAL)
+2019-05-17 15:12:46 ERROR Equipe:95 - [Ljava.lang.StackTraceElement;@7af85e1f
+2019-05-20 12:20:50 ERROR Equipe:44 - message log (ERROR)
+2019-05-20 12:20:50 FATAL Equipe:45 - message log (FATAL)
+2019-05-20 15:11:41 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@6c6919ff
+2019-05-20 15:11:41 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@45832b85
+2019-05-20 15:15:11 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@45832b85
+2019-05-20 15:15:11 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@2aa0feb2
+2019-05-20 15:19:30 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@c677d7e
+2019-05-20 15:19:30 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@278cb145
+2019-05-20 15:20:53 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@74eab077
+2019-05-20 15:20:53 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@ab4d2ba
+2019-05-20 15:23:42 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@6c6919ff
+2019-05-20 15:23:42 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@45832b85
+2019-05-20 15:24:37 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@6c6919ff
+2019-05-20 15:24:37 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@215a0264
+2019-05-20 15:25:04 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@74eab077
+2019-05-20 15:25:04 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@ab4d2ba
+2019-05-20 15:25:23 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@6c6919ff
+2019-05-20 15:25:23 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@215a0264
+2019-05-20 15:27:43 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@270f7b4d
+2019-05-20 15:27:43 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@65ff4b8c
+2019-05-20 15:27:43 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@3835d3fd
+2019-05-20 15:28:15 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@270f7b4d
+2019-05-20 15:28:15 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@65ff4b8c
+2019-05-20 15:28:15 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@614cbec4
+2019-05-20 15:29:25 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@74eab077
+2019-05-20 15:29:25 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@c677d7e
+2019-05-20 15:29:25 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@278cb145
+2019-05-20 15:36:45 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@711261c7
+2019-05-20 15:36:45 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@5bb661e0
+2019-05-20 15:36:45 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@3c4231e5
+2019-05-20 15:37:23 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@2f006edf
+2019-05-20 15:37:23 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@5cb64b9c
+2019-05-20 15:37:23 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@44b5b54
+2019-05-20 15:39:35 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@25d87313
+2019-05-20 15:39:35 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@213bd66a
+2019-05-20 15:39:35 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@68aa1164
+2019-05-20 15:40:05 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@2e243122
+2019-05-20 15:40:05 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@2f51b100
+2019-05-20 15:40:05 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@e5d9fa7
+2019-05-20 15:40:54 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@715d82a0
+2019-05-20 15:40:54 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@e8fb390
+2019-05-20 15:40:54 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@78a0d664
+2019-05-20 15:41:58 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@3ce4eb42
+2019-05-20 15:41:58 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@6eff05e7
+2019-05-20 15:41:58 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@31428f76
+2019-05-20 15:47:50 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@41041c31
+2019-05-20 15:47:50 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@8bd9d08
+2019-05-20 15:47:50 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@3328db4f
+2019-05-20 15:48:16 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@cf0bc92
+2019-05-20 15:48:16 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@c2191a8
+2019-05-20 15:48:16 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@28ffa527
+2019-05-20 15:51:04 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@6c120b00
+2019-05-20 15:51:04 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@7bf2e475
+2019-05-20 15:51:04 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@6c2a33af
+2019-05-20 16:00:17 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@2c376461
+2019-05-20 16:00:17 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@78d52d4c
+2019-05-20 16:00:17 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@34907a49
+2019-05-20 16:25:45 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@2ac0cb64
+2019-05-20 16:25:45 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@2ef3efcc
+2019-05-20 16:25:45 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@5c7b504
+2019-05-20 16:26:33 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@8bb5c2a
+2019-05-20 16:26:33 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@12ebcdf6
+2019-05-20 16:26:33 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@75693526
+2019-05-20 16:29:23 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@2e7563f6
+2019-05-20 16:29:23 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@ccea4be
+2019-05-20 16:29:23 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@ae85aad
+2019-05-20 16:31:04 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@e353e1d
+2019-05-20 16:31:04 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@2b69ff13
+2019-05-20 16:31:04 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@35599228
+2019-05-20 16:32:48 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@10c67c1c
+2019-05-20 16:32:48 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@7be3a837
+2019-05-20 16:32:48 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@48b744fd
+2019-05-20 16:35:56 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@55bafbc1
+2019-05-20 16:35:56 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@5fb0a09e
+2019-05-20 16:35:56 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@19a4cdea
+2019-05-20 16:38:48 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@1b897ffb
+2019-05-20 16:38:48 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@230dd372
+2019-05-20 16:38:48 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@164cad52
+2019-05-20 16:43:10 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@701bd6e8
+2019-05-20 16:43:10 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@13da6bc9
+2019-05-20 16:43:10 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@5cdf61d
+2019-05-20 16:44:07 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@1a916120
+2019-05-20 16:44:07 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@52518ee1
+2019-05-20 16:44:07 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@157267db
+2019-05-20 16:50:42 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@2db75e32
+2019-05-20 16:50:42 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@267309f7
+2019-05-20 16:50:42 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@7136ad9a
+2019-05-20 17:23:36 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@7be3a837
+2019-05-20 17:23:36 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@772589ed
+2019-05-20 17:23:36 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@3453f79c
+2019-05-20 17:26:49 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@af04d6d
+2019-05-20 17:26:49 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@5aa461
+2019-05-20 17:26:49 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@4f4b7a2e
+2019-05-20 17:27:36 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@55589ef5
+2019-05-20 17:27:36 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@61a17f3
+2019-05-20 17:27:36 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@5935eb9c
+2019-05-20 17:34:08 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@2db75e32
+2019-05-20 17:34:08 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@1067bc4c
+2019-05-20 17:34:08 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@69f55ea
+2019-05-20 17:34:32 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@7be3a837
+2019-05-20 17:34:32 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@7364073b
+2019-05-20 17:34:32 ERROR Equipe:99 - [Ljava.lang.StackTraceElement;@53fb3e1b
+2019-05-21 09:59:00 ERROR Equipe:44 - message log (ERROR)
+2019-05-21 09:59:00 FATAL Equipe:45 - message log (FATAL)
+2019-05-21 09:59:20 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@51297528
+2019-05-21 09:59:20 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@22f80e36
+2019-05-21 09:59:20 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@713e49c3
+2019-05-21 10:01:22 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@70ed902a
+2019-05-21 10:01:22 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@6bf54260
+2019-05-21 10:01:22 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@4af84a76
+2019-05-21 10:01:46 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@4af84a76
+2019-05-21 10:01:46 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@756200d1
+2019-05-21 10:01:46 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@572b4072
+2019-05-21 10:02:15 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@70ed902a
+2019-05-21 10:02:15 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@6bf54260
+2019-05-21 10:02:15 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@4af84a76
+2019-05-21 10:02:25 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@5709e10b
+2019-05-21 10:02:25 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@674e4c82
+2019-05-21 10:02:25 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@5b74902c
+2019-05-21 10:03:45 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@756200d1
+2019-05-21 10:03:45 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@4e4bfd9c
+2019-05-21 10:03:45 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@5b1f5fcc
+2019-05-21 10:07:07 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@322ab6ce
+2019-05-21 10:07:07 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@4a29fe2e
+2019-05-21 10:07:07 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@563c3aca
+2019-05-21 10:07:49 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@7165bde6
+2019-05-21 10:07:49 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@19e8fe55
+2019-05-21 10:07:49 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@390a07a0
+2019-05-21 10:08:13 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@390a07a0
+2019-05-21 10:08:13 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@43ee1cf7
+2019-05-21 10:08:13 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@4a29fe2e
+2019-05-21 10:09:54 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@fefb66c
+2019-05-21 10:09:54 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@35555145
+2019-05-21 10:09:54 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@229749f0
+2019-05-21 10:12:53 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@36ecf9f6
+2019-05-21 10:12:53 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@3dd591b9
+2019-05-21 10:12:53 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@7e8c58fd
+2019-05-21 10:15:23 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@2a9f8d47
+2019-05-21 10:15:23 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@51c008fd
+2019-05-21 10:15:23 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@22f80e36
+2019-05-21 10:16:08 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@1df9f7c6
+2019-05-21 10:16:08 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@3c98981e
+2019-05-21 10:16:08 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@713e49c3
+2019-05-21 10:18:29 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@bdda8a7
+2019-05-21 10:18:29 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@51297528
+2019-05-21 10:18:29 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@1df9f7c6
+2019-05-21 10:19:46 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@2dd2ff87
+2019-05-21 10:19:46 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@1c421b0f
+2019-05-21 10:19:46 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@2a9f8d47
+2019-05-21 10:20:17 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@780c0
+2019-05-21 10:20:17 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@188bf4d8
+2019-05-21 10:20:17 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@6528d339
+2019-05-21 10:21:46 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@25dad235
+2019-05-21 10:21:46 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@4a3509b0
+2019-05-21 10:21:46 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@d677be9
+2019-05-21 10:22:10 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@25dad235
+2019-05-21 10:22:10 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@4a3509b0
+2019-05-21 10:22:10 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@d677be9
+2019-05-21 10:22:33 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@30c03473
+2019-05-21 10:22:33 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@c6244e7
+2019-05-21 10:22:33 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@3292eff7
+2019-05-21 10:23:13 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@4ba1c1a2
+2019-05-21 10:23:13 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@3d57fb9e
+2019-05-21 10:23:13 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@3e489ac1
+2019-05-21 10:24:28 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@7e0883f3
+2019-05-21 10:24:28 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@35555145
+2019-05-21 10:24:28 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@771cbd13
+2019-05-21 10:27:10 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@30c03473
+2019-05-21 10:27:10 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@c6244e7
+2019-05-21 10:27:31 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@30c03473
+2019-05-21 10:27:31 ERROR Equipe:101 - [Ljava.lang.StackTraceElement;@3292eff7
+2019-05-21 12:04:01 ERROR Equipe:44 - message log (ERROR)
+2019-05-21 12:04:01 FATAL Equipe:45 - message log (FATAL)
